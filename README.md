@@ -1,4 +1,4 @@
-# Full Stack Developer Assessment - Game Monitoring Application
+# Full Stack Developer Assessment - Game Monitoring Application (Spring Boot, Angular)
 
 Your task is to build a Full Stack application using Spring Boot for the backend and Angular for the frontend. The application will allow authenticated users to monitor players and team details in a game. Follow the instructions below to complete the assessment.
 
